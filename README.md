@@ -2,7 +2,7 @@
 
 ## Installation
 
-To install `sesd`, use pip:
+To install the package, use pip:
 
 ```python
 pip install delete-chrome-history-py
