@@ -6,6 +6,7 @@ Google Chrome doesn't give you an option of deleting specific websites from the 
 ## Installation
 
 To install the package, use pip:
+pip is a Python Package Manager and it manages the Python modules.
 
 ```python
 pip install delete-chrome-history-py
