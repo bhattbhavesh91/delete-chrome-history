@@ -37,3 +37,5 @@ website_to_be_deleted = "github"
 delete_history(full_db_location, website_to_be_deleted)
 
 ```
+
+<h3 align="center">Show your support by starring the repository 🙂</h3>
